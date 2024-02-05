@@ -1,7 +1,7 @@
 # SVG Logo Maker
 
 # Description
-Log maker
+Logo maker application
 
 
 ## User Story
