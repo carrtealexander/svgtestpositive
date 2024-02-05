@@ -26,7 +26,8 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 ## Mock-Up
 
 The following image shows a mock-up of the generated SVG given the following input entered by the user: SVG for the text, white for the text color, circle from the list of shapes, and green for the shape color. Note that this is just an image of the output SVG and not the SVG file itself:
-![alt text](<SVG LOGO.png>)
+
+<img width="960" alt="SVG LOGO" src="https://github.com/carrtealexander/svgtestpositive/assets/143460245/1883e974-ee08-4fb7-a355-416416aa3ab4">
 
 
 
